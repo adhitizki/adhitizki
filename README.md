@@ -10,4 +10,4 @@
 
 
 ## My Project
-#### - [Hotel Booking](https://github.com/adhitizki/Hotel-Bookings) - Analyze and predict reservation cancellation
+### - [Hotel Booking](https://github.com/adhitizki/Hotel-Bookings) - Analyze and predict reservation cancellation
