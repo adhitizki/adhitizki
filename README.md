@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Data Science, Machine Learning and Cloud Computing**
 - 🎓 Bachelor of Science in **Physics (Electronics and Instrumentation)**
 - 📫 Reach me at 
-**[linked-in](https://www.linkedin.com/in/adhitya-izki-saputra-9b5077114/)**
+**[Linked-in](https://www.linkedin.com/in/adhitya-izki-saputra-9b5077114/), [Instagram](https://www.instagram.com/adhitizki)**
 <br>
 
 
