@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Adhit Izki 👨‍🔬</h1>
-Data Scientist | Machine Learning Enthusiast
 
+<p align="center">Data Scientist | Machine Learning Enthusiast</p>
 
-**[Linked-in](https://www.linkedin.com/in/adhitya-izki-saputra-9b5077114/)** | 
-**[Medium](https://medium.com/@adhitizki)**
+<p align="center">
+  <a href="https://www.linkedin.com/in/adhitya-izki-saputra-9b5077114/">Linked-in</a> |
+  <a href="https://medium.com/@adhitizki">Medium</a>
+</p>
 
+## Portfolio
 
-## Portofolio
-### - [Hotel Booking Model and Analysis](https://github.com/adhitizki/Hotel-Bookings) - Analyze and predict reservation cancellation
-### - [Olist Product Analysis](https://github.com/adhitizki/olist-analysis) - Data preprocessing and analysis Olist orders and products
-### - [Hotel Booking Cancellations Analysis](https://github.com/adhitizki/hotel-cancellations-analysis) - Analysis of hotel bookings cancellations
+- [Hotel Booking Model and Analysis](https://github.com/adhitizki/Hotel-Bookings) - Analyze and predict reservation cancellation
+- [Olist Product Analysis](https://github.com/adhitizki/olist-analysis) - Data preprocessing and analysis of Olist orders and products
+- [Hotel Booking Cancellations Analysis](https://github.com/adhitizki/hotel-cancellations-analysis) - Analysis of hotel booking cancellations
