@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Adhit Izki 👨‍🔬</h1>
+Data Scientist | Machine Learning Enthusiast
 
-**[Linked-in](https://www.linkedin.com/in/adhitya-izki-saputra-9b5077114/)**
+
+**[Linked-in](https://www.linkedin.com/in/adhitya-izki-saputra-9b5077114/)** | 
 **[Medium](https://medium.com/@adhitizki)**
+
 
 ## Portofolio
 ### - [Hotel Booking Model and Analysis](https://github.com/adhitizki/Hotel-Bookings) - Analyze and predict reservation cancellation
