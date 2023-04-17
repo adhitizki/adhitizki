@@ -10,4 +10,6 @@
 
 
 ## Portofolio
-### - [Hotel Booking](https://github.com/adhitizki/Hotel-Bookings) - Analyze and predict reservation cancellation
+### - [Hotel Booking Model and Analysis](https://github.com/adhitizki/Hotel-Bookings) - Analyze and predict reservation cancellation
+### - [Olist Product Analysis](https://github.com/adhitizki/olist-analysis) - Data preprocessing and analysis Olist orders and products
+### - [Hotel Booking Cancellations Analysis](https://github.com/adhitizki/hotel-cancellations-analysis) - Analysis of hotel bookings cancellations
