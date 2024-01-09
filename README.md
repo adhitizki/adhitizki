@@ -12,3 +12,4 @@
 - [Hotel Booking Model and Analysis](https://github.com/adhitizki/Hotel-Bookings) - Analyze and predict reservation cancellation
 - [Olist Product Analysis](https://github.com/adhitizki/olist-analysis) - Data preprocessing and analysis of Olist orders and products
 - [Hotel Booking Cancellations Analysis](https://github.com/adhitizki/hotel-cancellations-analysis) - Analysis of hotel booking cancellations
+- [Anime Recommendation](https://github.com/adhitizki/recsys-anime) - Recommendation system for anime
