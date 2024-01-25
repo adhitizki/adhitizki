@@ -13,3 +13,4 @@
 - [Olist Product Analysis](https://github.com/adhitizki/olist-analysis) - Data preprocessing and analysis of Olist orders and products
 - [Hotel Booking Cancellations Analysis](https://github.com/adhitizki/hotel-cancellations-analysis) - Analysis of hotel booking cancellations
 - [Anime Recommendation](https://github.com/adhitizki/recsys-anime) - Recommendation system for anime
+- [Smoking Image Detection](https://github.com/adhitizki/smoking-detection) - Image classification for smoking detection using neural network
